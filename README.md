@@ -3,7 +3,7 @@ Hey there!
 I am a Biomedical Engineering PhD Student at Duke University studying ultrasound imaging systems.
 
 My main areas of interest are...
- - machine learnign and imaging processing
+ - quantitaive biomarkers via aimaging systems
  - novel medical imaging systems
  - equity in medical device design and application
  - equity in higher education
